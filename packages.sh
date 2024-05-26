@@ -2,8 +2,11 @@
 
 packages=(
     neovim
+    unzip
     mpv
     fzf
+    nwg-look
+    tofi
     github-cli
     waybar
     localsend-bin
