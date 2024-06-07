@@ -2,7 +2,7 @@
 
 cd
 
-git clone https://github.com/zackwaterman/.dotfiles
+git clone --recursive https://github.com/zackwaterman/.dotfiles
 
 cd .dotfiles
 

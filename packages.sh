@@ -5,6 +5,7 @@ packages=(
     unzip
     mpv
     fzf
+    imv
     nwg-look
     mullvad-vpn-bin
     wev
