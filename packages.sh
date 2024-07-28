@@ -3,37 +3,28 @@
 packages=(
     neovim
     unzip
-    mpv
     fzf
-    imv
-    nwg-look
-    mullvad-vpn-bin
-    wev
+    fd
+    ripgrep
     tofi
-    hyprpicker
     brightnessctl
-    catppuccin-gtk-theme-mocha
-    noto-fonts
     fastfetch
     npm
     ntfs-3g
     man-db
+    catppuccin-gtk-theme-mocha
+    noto-fonts
     noto-fonts-cjk
     noto-fonts-emoji
     noto-fonts-extra
     openssh
     wl-clipboard
     github-cli
-    waybar
     localsend-bin
-    dolphin-emu
     ttf-jetbrains-mono-nerd
     stow
-    hyprland
-    hyprpaper
     firefox
     foot
-    lf
     git
     rustup
     htop

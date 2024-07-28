@@ -4,8 +4,6 @@
 
 ./packages.sh
 
-./git.sh
-
 ./surface.sh
 
 ./dotfiles.sh
