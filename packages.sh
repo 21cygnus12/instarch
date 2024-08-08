@@ -17,7 +17,6 @@ packages=(
     noto-fonts-cjk
     noto-fonts-emoji
     noto-fonts-extra
-    openssh
     wl-clipboard
     github-cli
     localsend-bin
