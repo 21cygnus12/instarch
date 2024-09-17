@@ -3,10 +3,12 @@
 packages=(
     neovim
     unzip
+    qt5-wayland
+    qt6-wayland
     fzf
     fd
     ripgrep
-    tofi
+    go
     brightnessctl
     fastfetch
     npm
